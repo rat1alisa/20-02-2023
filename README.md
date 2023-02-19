@@ -1,12 +1,10 @@
 x// 20-02-2023
-#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <conio.h>
 #include <string>
 #include <iomanip>
 #include <regex> 
 #include <iterator> 
-#define sp system("pause")
 using namespace std;
 -----------------
 char  x[100] = {};
@@ -93,6 +91,4 @@ int main()
         alice.close();
     } 
     //------------------------------------------------------------------------------
-    
-    
 }
